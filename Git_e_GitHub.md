@@ -4,4 +4,5 @@ O git é uma pasta(ou repositorio, ja que significa a mesma coisa) para armazena
 # Github 
 O github é um servidor para salvar os arquivos e as alterações, funcionado como uma forma (quase) definitiva do projeto. E as alterações do git para o github são chamados de push, e o inverso é pull. 
 
-# teste de falha
+# Branch
+Um branch é o proprio repositorio mas copiado! Quando criamos um branch apenas estamos realizando um 'cópia' do repositorio principal. O porque realizamos está copia? Simples! Para não precisarmos mexer no repositorio principal.
