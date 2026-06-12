@@ -4,4 +4,4 @@ O git é uma pasta(ou repositorio, ja que significa a mesma coisa) para armazena
 # Github 
 O github é um servidor para salvar os arquivos e as alterações, funcionado como uma forma (quase) definitiva do projeto. E as alterações do git para o github são chamados de push, e o inverso é pull. 
 
-# teste d falga
+# teste de falha
